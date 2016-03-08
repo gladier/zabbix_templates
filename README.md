@@ -6,7 +6,7 @@ All templates require the appropriate MIBs to be installed on your system. OIDs 
 ## Template_Palo_Alto
 Built for Zabbix 3.0 and heavily utilises the new discovery methods. Should be able to handle scaling to a clustered Palo.
 
-###MIBS Required:
+###MIBs Required:
 PAN-ENTITY-EXT-MIB
 PAN-COMMON-MIB
 PAN-GLOBAL-REG-MIB
